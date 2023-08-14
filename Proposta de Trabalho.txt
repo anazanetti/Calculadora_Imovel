@@ -1,3 +1,6 @@
+Módulo 1 - Santander Coders
+
+
 Calculadora compra VS aluguel imóvel
 
 O algoritmo deve receber os seguintes conjuntos de entrada:
@@ -16,7 +19,7 @@ Extra: Será considerado como bônus, caso consigam transformar essa calculadora
 
 
 Regras:
-- O código do trabalho deverá ser entregue por e-mail (igorgbs@gmail.com).
+- O código do trabalho deverá ser entregue por e-mail.
 - O trabalho deverá ser em dupla
 - No último dia de aula, faremos as apresentações dos trabalhos. Cada dupla terá 10 minutos (NO MÁXIMO) para apresentar
 - Basicamente, a apresentação, será mostrar o código funcionando e responder a alguns questionamentos
